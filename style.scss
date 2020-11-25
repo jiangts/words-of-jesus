@@ -110,6 +110,13 @@ img {
   max-width: 100%;
 }
 
+blockquote {
+  background: #f9f9f9;
+  border-left: 0.2rem solid #ccc;
+  margin: 1rem 0px;
+  padding: .5rem 1rem;
+}
+
 // Fixes images in popup boxes from Google Translate
 .gmnoprint img {
   max-width: none;
@@ -252,14 +259,14 @@ nav {
 }
 
 .post {
-  blockquote {
-    margin: 1.8em .8em;
-    border-left: 2px solid $gray;
-    padding: 0.1em 1em;
-    color: $gray;
-    font-size: 22px;
-    font-style: italic;
-  }
+  // blockquote {
+  //   margin: 1.8em .8em;
+  //   border-left: 2px solid $gray;
+  //   padding: 0.1em 1em;
+  //   color: $gray;
+  //   font-size: 22px;
+  //   font-style: italic;
+  // }
 
   .comments {
     margin-top: 10px;
