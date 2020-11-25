@@ -229,6 +229,9 @@ blockquote {
   border-left: 0.5rem solid #ccc;
   margin: 1rem 0px;
   padding: .5rem 1rem;
+  p {
+    white-space: pre-wrap;
+  }
 }
 
 // Fixes images in popup boxes from Google Translate

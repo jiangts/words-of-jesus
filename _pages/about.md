@@ -29,7 +29,7 @@ and on the other side, it explains God's name, Jehovah, or I AM:
 
 and wrapped around the margins:
 
-> Now to Him who is able to do exceedingly abundantly beyond all tat we can ask or think... (who knows what we need before we ask)... to Him be the glory... \[in the church and in Christ Jesus to all generations forever and ever. Amen.\]
+> Now to Him who is able to do exceedingly abundantly beyond all that we can ask or think... (who knows what we need before we ask)... to Him be the glory... \[in the church and in Christ Jesus to all generations forever and ever. Amen.\]
 
 
 
