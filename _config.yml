@@ -6,7 +6,7 @@
 name: "Study: Words of Jesus"
 
 # Short bio or description (displayed in the header)
-description: "Personal notes by Allan Jiang"
+description: "A personal devotional"
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/jiangts/words-of-jesus/gh-pages/images/cross.jpg
@@ -26,7 +26,7 @@ footer-links:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter: # jekyllrb
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
