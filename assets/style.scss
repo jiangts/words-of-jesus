@@ -224,6 +224,13 @@ p > img {
   margin: 0 auto;
 }
 
+blockquote {
+  background: #f9f9f9;
+  border-left: 0.5rem solid #ccc;
+  margin: 1rem 0px;
+  padding: .5rem 1rem;
+}
+
 // Fixes images in popup boxes from Google Translate
 .gmnoprint img {
   max-width: none;
@@ -371,15 +378,15 @@ nav {
 }
 
 .post {
-  blockquote {
-    margin: 1.8em .8em;
-    /*border-left: 2px solid $gray;*/
-    padding: 0.1em 1em;
-    color: $gray;
-    font-size: 22px;
-    font-style: italic;
-    background-color: #ede1ff;
-  }
+  // blockquote {
+  //   margin: 1.8em .8em;
+  //   /*border-left: 2px solid $gray;*/
+  //   padding: 0.1em 1em;
+  //   color: $gray;
+  //   font-size: 22px;
+  //   font-style: italic;
+  //   background-color: #ede1ff;
+  // }
 
   .you-may-like{
     margin: 1.8em .8em;
