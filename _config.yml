@@ -96,4 +96,6 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+  - deploy.sh
+  - _drafts
 
